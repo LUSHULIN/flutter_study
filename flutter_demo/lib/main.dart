@@ -3,9 +3,10 @@ import 'package:flutter_demo/switchAndCheckBoxPage.dart';
 import 'package:flutter_demo/tipRouter.dart';
 
 import 'data_type.dart';
+import 'formTestRoute.dart';
 import 'less_group_page.dart';
 
-void main() => runApp(SwitchAndCheckBoxPage());
+void main() => runApp(FormTestRoute());
 
 class MyApp extends StatelessWidget {
   // This widget is the root of your application.
